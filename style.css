@@ -1,0 +1,98 @@
+h1{color:black}
+h4{color:rgb(40, 1, 71)}
+h1{text-align: center;}
+h3{border:solid;}
+
+body{
+background-color:rgb(162, 202, 221);
+}
+
+
+
+
+/* body{
+  background-image: url("images/1438516.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+    
+} */
+
+
+
+/* .topics{
+  border: solid;
+  background-color: cornsilk;
+  width: 72px;
+}
+
+.topic{
+  border: solid;
+  background-color: cornsilk;
+  width: 75px;
+} */
+
+img {
+  border: solid;
+  border-color: rgb(0, 0, 0);
+}
+
+.hyperlinks{
+  /* border: solid; */
+ width: 75px; 
+ background-color:rgb(177, 164, 51);
+/* color: rgb(221, 184, 184); */
+display: flex;
+align-items: center;
+flex-direction: column;
+}
+
+.suggestion{
+/* border: solid;
+color: black; */
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.grid{
+    /* border: solid;
+    color: black; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: center;
+}
+
+.image{
+    /* border: solid;
+    color: black; */
+    display: flex;
+    flex-wrap: wrap;  
+    width: 305px;
+    
+    background-color:#2d6e8f;
+}
+ 
+.header{
+  /* border: solid; */
+  background-color: rgb(0, 0, 0);
+  display: flex;
+  justify-content: center;
+}
+
+h1{
+  color: azure;
+}
+
+h5{
+  color: rgb(0, 0, 0);
+}
+
+
+.image2{
+/* border: solid;  */
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+}
